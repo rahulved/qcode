@@ -1,0 +1,7 @@
+typ,host,port
+rdb,localhost,5011
+rdb,localhost,6011
+hdb,localhost,5012
+hdb,localhost,5013
+hdb,localhost,5014
+
